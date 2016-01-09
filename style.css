@@ -1,0 +1,18 @@
+
+
+ng-md-icon{
+    fill: #ffffff;
+}
+
+h1{
+    text-align: center;
+}
+
+md-button, input{
+    display: inline !important;
+
+}
+
+.float{
+    float: right;
+}
